@@ -3,5 +3,5 @@
 Aquí encontrarás los mejores temarios sobre arte, cine, geografia... !Todo lo que necesitas está aquí!!
 
 - [Geografía](01_geografia)
-- [Música](02_musica)
-- [Cine](03_cine)
+- [Historia](02_historia)
+- [Cultura](03_cultura)
