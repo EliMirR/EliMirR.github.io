@@ -4,10 +4,16 @@ En este curso encontrarás lo necesario para introducirte en la cultura de este 
 
 ## Índice
 
--[Presentación del curso](01-glosario)
+-[Presentación del curso](04-presentacion)
 
--[Glosario básico](glosario.pdf)
+-[Glosario básico](01-glosario)
 
--[Guía vegana por Praga](guia.epub)
+-[Guía vegana por Praga](02-guia)
 
--[Un misterio en la plaza](misterio_en_la_plaza.html)
+-[Un misterio en la plaza](03-aventura)
+
+-[Geografía](01_geografia)
+
+-[Historia](02_historia)
+
+-[Cultura](03_cultura)
