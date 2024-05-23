@@ -1,7 +1,13 @@
-Bienvenido a mi repositorio de cultura checa.
+# Bienvenido al curso de cultura checa *Czeck this*
 
-Aquí encontrarás los mejores temarios sobre arte, cine, geografia... ¡Todo lo que necesitas está aquí!
+En este curso encontrarás lo necesario para introducirte en la cultura de este maravilloso país
 
-- [Geografía](01_geografia)
-- [Historia](02_historia)
-- [Cultura](03_cultura)
+## Índice
+
+-[Presentación del curso](01-glosario)
+
+-[Glosario básico](glosario.pdf)
+
+-[Guía vegana por Praga](guia.epub)
+
+-[Un misterio en la plaza](misterio_en_la_plaza.html)
