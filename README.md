@@ -1,7 +1,7 @@
 # Bienvenido al curso de cultura checa *Czeck this*
 
 En este curso encontrarás lo necesario para introducirte en la cultura de este maravilloso país
-![Meme de Chequia](https://github.com/EliMirR/EliMirR.github.io/tree/main/assests/meme.jpg)
+![Meme de Chequia](https://github.com/EliMirR/EliMirR.github.io/tree/main/assests/meme.jpg/index.html)
 ## Índice
 
 ### -[Presentación del curso](04-presentacion)
