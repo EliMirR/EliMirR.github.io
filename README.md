@@ -9,18 +9,18 @@ Para dudas utiliza el siguiente correo de contacto: noesuncorreodeverdad@yahoy.c
 
 ## Índice
 
-### -[Presentación del curso](https://github.com/EliMirR/EliMirR.github.io/tree/main/04-presentacion/index.html)
+### -[Presentación del curso](https://github.com/EliMirR/EliMirR.github.io/tree/main/04-presentacion)
 
-### -[Glosario básico](https://github.com/EliMirR/EliMirR.github.io/tree/main/01-glosario/index.html)
+### -[Glosario básico](https://github.com/EliMirR/EliMirR.github.io/tree/main/01-glosario)
 
-### -[Guía vegana por Praga](https://github.com/EliMirR/EliMirR.github.io/tree/main/02-guia/index.html)
+### -[Guía vegana por Praga](https://github.com/EliMirR/EliMirR.github.io/tree/main/02-guia)
 
-### -[Un misterio en la plaza](https://github.com/EliMirR/EliMirR.github.io/tree/main/03-aventura/index.html)
+### -[Un misterio en la plaza](https://github.com/EliMirR/EliMirR.github.io/tree/main/03-aventura)
 
-### -[Geografía](https://github.com/EliMirR/EliMirR.github.io/tree/main/01_geografia/index.html)
+### -[Geografía](https://github.com/EliMirR/EliMirR.github.io/tree/main/01_geografia)
 
-### -[Historia](https://github.com/EliMirR/EliMirR.github.io/tree/main/02_historia/index.html)
+### -[Historia](https://github.com/EliMirR/EliMirR.github.io/tree/main/02_historia)
 
-### -[Cultura](https://github.com/EliMirR/EliMirR.github.io/tree/main/03_cultura/index.html)
+### -[Cultura](https://github.com/EliMirR/EliMirR.github.io/tree/main/03_cultura)
 
-### -[Autoevaluación y conclusiones](https://github.com/EliMirR/EliMirR.github.io/tree/main/autoevaluacion/index.html)
+### -[Autoevaluación y conclusiones](https://github.com/EliMirR/EliMirR.github.io/tree/main/autoevaluacion)
